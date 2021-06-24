@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript, React
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on fun projects!
-- 📫 How to reach me - MEssage me
+- 📫 How to reach me - Message me
 
 <!---
 gowthami-sukhavasi/gowthami-sukhavasi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
